@@ -1,4 +1,4 @@
-## Features
+## Technology
 
 - ⚡ Next.js with App Router support
 - 🔥 Type checking TypeScript
